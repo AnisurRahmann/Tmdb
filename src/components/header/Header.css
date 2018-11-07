@@ -1,0 +1,14 @@
+.header {
+    padding: 15px 20px;
+    background-color: black
+}
+
+.brand-logo {
+    display: inline-block;
+    width: 50%;
+
+}
+
+.logo {
+    height: 100px
+}

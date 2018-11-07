@@ -1,0 +1,45 @@
+.movie--info {
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+    background-color: rgba(0, 0, 0, .5);
+    backdrop-filter: blur(2px);
+
+}
+
+.poster {
+    background-color: black;
+    height: 100%;
+    display: inline-block;
+    width: 50%
+}
+
+.poster img {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    padding: 15px 0px;
+    color: wheat;
+    height: 100vh
+}
+
+.movie-title {
+    border: 2px solid green;
+    text-transform: uppercase
+}
+
+.subtitle {
+    font-weight: bold;
+    color: green
+}
+
+.genre {
+    color: red;
+
+}
+
+.note span {
+    padding: 0px 5px
+}
